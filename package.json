@@ -1,0 +1,25 @@
+{
+  "name": "test-restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wulver2/test-restaurant-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Wulver2/test-restaurant-page/issues"
+  },
+  "homepage": "https://github.com/Wulver2/test-restaurant-page#readme",
+  "devDependencies": {
+    "webpack-cli": "^6.0.1",
+    "wepack": "^0.0.1"
+  }
+}
