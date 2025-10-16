@@ -1,5 +1,8 @@
 export function menuInfo() {
-    var menu = document.createElement("h1");
-    menu.textContent = "Tab-switch test: menu";
+    var menu = document.createElement("div");
+    var heading = document.createElement("h1")
+    heading.textContent = "Menu";
+    // append everything to menu and return it
+    menu.appendChild(heading);
     return menu;
-}
+};
