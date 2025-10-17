@@ -19,3 +19,17 @@ margin: 10px;
     height: 20%;
     object-fit: cover;
 }
+
+#menu {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 50px;
+    
+}
+
+#menu img {
+    margin-left: 190px;
+    margin-top: 100px;
+    width: 240px;
+    height: 220px;
+}
